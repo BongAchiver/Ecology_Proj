@@ -1,5 +1,3 @@
-# Конфигурационный файл для бота эко-парсера
-
 # Настройки Telegram-бота
 TELEGRAM_TOKEN = '7672623941:AAFQbMi1NFhrP9XMFqkRkZygP7wRVFWs98Q'  # Токен бота
 CHANNEL_ID = '@gos_parser'  # ID канала для отправки сообщений
